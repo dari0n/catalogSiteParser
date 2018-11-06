@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "be4a4a913cf7146fb30300d703f281fb",
+    "packages": [
+        {
+            "name": "zomberg/phpquery",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zomberg/phpquery.git",
+                "reference": "974b764ecb6bd09aecb5acff08345b562dd39131"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zomberg/phpquery/zipball/974b764ecb6bd09aecb5acff08345b562dd39131",
+                "reference": "974b764ecb6bd09aecb5acff08345b562dd39131",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "phpQuery/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tobiasz Cudnik",
+                    "email": "tobiasz.cudnik@gmail.com",
+                    "homepage": "https://github.com/TobiaszCudnik",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Vyacheslav Pavlov",
+                    "homepage": "https://github.com/zomberg",
+                    "role": "Packager"
+                }
+            ],
+            "description": "phpQuery is a server-side, chainable, CSS3 selector driven Document Object Model (DOM) API based on jQuery JavaScript Library",
+            "homepage": "http://code.google.com/p/phpquery/",
+            "keywords": [
+                "lib",
+                "phpQuery"
+            ],
+            "time": "2017-07-26T10:29:48+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "zomberg/phpquery": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

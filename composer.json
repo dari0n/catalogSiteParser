@@ -1,0 +1,5 @@
+{
+  "require": {
+    "zomberg/phpquery": "dev-master"
+  }
+}
